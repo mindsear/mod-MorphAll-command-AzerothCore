@@ -1,0 +1,8 @@
+[worldserver]
+
+#
+# SkipAdmin = 1 
+#          means that the .allmorph command will not morph Admin
+#
+
+MorphAll.SkipAdmin = 1
